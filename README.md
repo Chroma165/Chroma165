@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Chroma165
-- 👀 I’m interested in food
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: don't
-- 😄 Pronouns: Deez/Nuts
-- ⚡ Fun fact: Horses can't vomit
+#👋 Hi, I’m Chroma,
+I'm a young dev who likes to learn about many diverse topics in the STEM fields and I use Arch btw.
+#🛠️ Current skills
+*JavaScript
+*Python
+*Rust (learning)
+#🌱 Currently learning
+*Rust
+*How hardware works on a low level
 
 <!---
 Chroma165/Chroma165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
