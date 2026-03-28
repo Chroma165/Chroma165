@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chroma,
+# 👋 Hi, I’m Chroma
 I'm a young dev who likes to learn about many diverse topics in the STEM fields and I use Arch btw.
 # 🛠️ Current skills
 * JavaScript
